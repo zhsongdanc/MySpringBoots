@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-client/pom.xml" />
+        <option value="$PROJECT_DIR$/multipart/pom.xml" />
+        <option value="$PROJECT_DIR$/streamcopy/pom.xml" />
+        <option value="$PROJECT_DIR$/fileservices-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/myfilter/pom.xml" />
+        <option value="$PROJECT_DIR$/application-event/pom.xml" />
+        <option value="$PROJECT_DIR$/zip-test/pom.xml" />
+        <option value="$PROJECT_DIR$/file-download/pom.xml" />
+        <option value="$PROJECT_DIR$/mysecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-test/pom.xml" />
+        <option value="$PROJECT_DIR$/tsf-test/pom.xml" />
+        <option value="$PROJECT_DIR$/simple/pom.xml" />
+        <option value="$PROJECT_DIR$/task/pom.xml" />
+        <option value="$PROJECT_DIR$/async-thread/pom.xml" />
+        <option value="$PROJECT_DIR$/java8/pom.xml" />
+        <option value="$PROJECT_DIR$/async-test/pom.xml" />
+        <option value="$PROJECT_DIR$/cglib/pom.xml" />
+        <option value="$PROJECT_DIR$/thread/pom.xml" />
+        <option value="$PROJECT_DIR$/scheduled/pom.xml" />
+        <option value="$PROJECT_DIR$/my-fileservice/pom.xml" />
+        <option value="$PROJECT_DIR$/facade-slf4j/pom.xml" />
+        <option value="$PROJECT_DIR$/WxWorkMsgAndValidate/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-test/pom.xml" />
+        <option value="$PROJECT_DIR$/simple-java8/pom.xml" />
+        <option value="$PROJECT_DIR$/cache-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-test/pom.xml" />
+        <option value="$PROJECT_DIR$/ibatis/pom.xml" />
+        <option value="$PROJECT_DIR$/tcpdump/pom.xml" />
+        <option value="$PROJECT_DIR$/lti-sso-test/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-test/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-test/pom.xml" />
+        <option value="$PROJECT_DIR$/guava-test/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/part-upload-debug/pom.xml" />
+        <option value="$PROJECT_DIR$/scheduled/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-test/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

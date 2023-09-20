@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-test" />
+        <module name="redis-test" />
+        <module name="cglib" />
+        <module name="streamcopy" />
+        <module name="xxl-job-client" />
+        <module name="cache-test" />
+        <module name="simple-java8" />
+        <module name="ibatis" />
+        <module name="tcpdump" />
+        <module name="thread" />
+        <module name="async-test" />
+        <module name="kafka-test" />
+        <module name="file-download" />
+        <module name="rocketmq-test" />
+        <module name="application-event" />
+        <module name="zip-test" />
+        <module name="WxWorkMsgAndValidate" />
+        <module name="multipart" />
+        <module name="guava-test" />
+        <module name="lti-sso-test" />
+        <module name="myfilter" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="WxWorkMsgAndValidate" options="-parameters" />
+      <module name="application-event" options="-parameters" />
+      <module name="async-test" options="-parameters" />
+      <module name="cache-test" options="-parameters" />
+      <module name="cglib" options="-parameters" />
+      <module name="debug-projects" options="" />
+      <module name="file-download" options="-parameters" />
+      <module name="guava-test" options="-parameters" />
+      <module name="ibatis" options="-parameters" />
+      <module name="kafka-test" options="-parameters" />
+      <module name="lti-sso-test" options="-parameters" />
+      <module name="multipart" options="-parameters" />
+      <module name="myfilter" options="-parameters" />
+      <module name="redis-test" options="-parameters" />
+      <module name="rocketmq-test" options="-parameters" />
+      <module name="simple-java8" options="-parameters" />
+      <module name="spring-test" options="-parameters" />
+      <module name="streamcopy" options="-parameters" />
+      <module name="tcpdump" options="-parameters" />
+      <module name="thread" options="-parameters" />
+      <module name="xxl-job-client" options="-parameters" />
+      <module name="zip-test" options="-parameters" />
+    </option>
+  </component>
+</project>

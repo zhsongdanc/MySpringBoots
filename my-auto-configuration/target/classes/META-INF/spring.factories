@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.demus.autoconfig.config.MyAutoConfiguration,\
+com.demus.autoconfig.config.MyProperties
