@@ -89,7 +89,7 @@ public class CacheTest {
     }
 
     @Test
-    public void whenNullValue_thenOptional() {
+    public void whenNullValue_thenOptional() throws ExecutionException {
         CacheLoader<String, Optional<String>> loader;
         loader = new CacheLoader<String, Optional<String>>() {
             @Override
