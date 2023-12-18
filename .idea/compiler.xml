@@ -25,6 +25,7 @@
         <module name="zip-test" />
         <module name="WxWorkMsgAndValidate" />
         <module name="multipart" />
+        <module name="cycleDependency" />
         <module name="guava-test" />
         <module name="lti-sso-test" />
         <module name="myfilter" />
@@ -38,6 +39,7 @@
       <module name="async-test" options="-parameters" />
       <module name="cache-test" options="-parameters" />
       <module name="cglib" options="-parameters" />
+      <module name="cycleDependency" options="-parameters" />
       <module name="debug-projects" options="" />
       <module name="file-download" options="-parameters" />
       <module name="guava-test" options="-parameters" />
